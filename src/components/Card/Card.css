@@ -1,0 +1,32 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 230px;
+    margin: 1rem;
+    position: relative;
+    width: 215px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:rgba(41, 2, 78, 0.945);
+  }
+  .card > .img-container > img {
+    width: 65%;
+    height: 250px;
+   
+  }
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+    
+  }

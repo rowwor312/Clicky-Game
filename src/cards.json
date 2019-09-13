@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Arnold",
+      "image": "https://www.stickpng.com/assets/images/59d628b43752880e93e16ea5.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Gerald",
+      "image": "https://www.stickpng.com/assets/images/59d6288f3752880e93e16ea2.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Helga",
+      "image": "https://i.pinimg.com/originals/80/5f/36/805f36f348acc361f28145f2d5681fa2.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Phoebe",
+      "image": "https://www.stickpng.com/assets/thumbs/59d628863752880e93e16ea1.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Sid",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1199d63-3ce2-435c-b3d5-87b34746e028/dah80yy-466f759f-22df-4bbd-8aa8-e6a214b7c79b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxMTk5ZDYzLTNjZTItNDM1Yy1iM2Q1LTg3YjM0NzQ2ZTAyOFwvZGFoODB5eS00NjZmNzU5Zi0yMmRmLTRiYmQtOGFhOC1lNmEyMTRiN2M3OWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mZzQ-9m1KHSy19OelbwVBZqVKmfAXZqLm4YasBUBE08",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Nadine",
+      "image": "https://myrealdomain.com/images/rhonda-wellington-lloyd-2.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Rhonda",
+      "image": "https://vignette.wikia.nocookie.net/heyarnold/images/d/dd/Rhonda_TJM_%281%29.png/revision/latest?cb=20181113025919",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Harold",
+      "image": "https://www.pinclipart.com/picdir/big/186-1869900_harold-hey-arnold-characters-clipart.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Olga",
+      "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/5/5e/Olga_Pataki.png/revision/latest?cb=20190214010503",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Curly",
+      "image": "https://vignette.wikia.nocookie.net/heyarnold/images/b/ba/Classic_Curly_promo.png/revision/latest?cb=20181010011614",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Stinky Peterson",
+      "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/a/a3/Stinky_oil-painted_stock_art.png/revision/latest?cb=20190326220917",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Eugene",
+      "image": "https://www.pinclipart.com/picdir/big/411-4113659_eugene-horowitz-hey-arnold-yuyin-clipart.png",
+      "count": 0
+    }
+  ]
